@@ -35,4 +35,4 @@ To deploy:
 - Create a commit on the `main` branch
 - Potentially add your account_id to the wrangler.toml file (you can find it in your Cloudflare dashboard)
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/nordcraftengine/cloudflare-example)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/holdup91/demo)
